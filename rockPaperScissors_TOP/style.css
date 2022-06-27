@@ -1,0 +1,53 @@
+h1{
+
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 200px;
+    /* Height of the footer*/ 
+  
+    background: rgb(221, 221, 221);
+    padding: 100px 100px;
+    font-family: 'Montserrat', sans-serif;
+  
+    
+  }
+
+  .rockToken{
+    position: grid;
+    width: 200px;
+    border-radius: 200px;
+    border: 1px solid rgb(197, 197, 197);
+    margin-right: 20px;
+    
+}
+.rockToken:hover{
+  width: 250px;
+}
+
+
+.paperToken{
+  position: grid;
+  width: 200px;
+  border-radius: 200px;
+  border: 1px solid rgb(197, 197, 197);
+  margin-right: 20px;
+  
+  
+}
+.paperToken:hover{
+  width: 250px;
+}
+.scissorToken{
+  position: grid;
+  width: 200px;
+  border-radius: 200px;
+  border: 1px solid rgb(197, 197, 197);
+  
+}
+.scissorToken:hover{
+  width: 250px;
+}
